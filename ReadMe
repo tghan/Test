@@ -1,0 +1,5 @@
+In the First Phase for data preprocessing I draw Histogram graph for all features. 
+Observed results are shawn that The distribution of data around the mean and median were approximately equal. 
+As a result, I use Kmeans and KNN for filling miss values for all 12 features.
+these two algorithms have been tested with different parameters. 
+Finally, after the pre-processing  data, I use three models and evalute their in my dataset.
